@@ -52,7 +52,6 @@
     padding: 50px 0px;
     font-size: 3.5vw;
     font-weight: 700;
-    letter-spacing: -3px;
     color: #373b43;
     /* background-color: bisque; */
     text-align: center;
@@ -140,7 +139,6 @@ padding: 55px 0px;
 
 .container-2-lower p {
     font-size: 3.5vw;
-    letter-spacing: -3px;
     line-height: 55px;
     color: #373b43;
     font-weight: 700;
@@ -318,7 +316,6 @@ table {
     width: 20px;
     border-radius: 43px;
     font-size: 2vw;
-    letter-spacing: -1px;
     color: #ffffff;
     font-weight: 700;
     font-family: "Libre Franklin";
@@ -445,6 +442,11 @@ font-size: 1.3vw;
         height: 50vw;
 
     }
+    
+        .container-1 p{
+        padding-bottom: 30px;
+    }
+    
     .container-2-middle {
         width: 100vw;
         height: fit-content;
